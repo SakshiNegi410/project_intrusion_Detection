@@ -85,7 +85,9 @@ Combining a section of the aforementioned intrusion detection methods and steps 
 
 
  
-Figure 1.1 Proposed method flowchart and details of algorithm
+Figure 1.1 Proposed method flowchart and details of algorithm![image](https://github.com/SakshiNegi410/project_intrusion_Detection/assets/125671478/74c320bf-30f7-496e-a237-e28f2f295527)
+
+
 
 V.	EXPERIMENTAL RESULTS
 
