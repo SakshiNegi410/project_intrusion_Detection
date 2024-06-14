@@ -4,8 +4,6 @@ INTRUSION DETECTION AS A COMBINATION OF SIGNATURE, ANOMALY & BEHAVIOR BASED TECH
 
  
 Ms. Sakshi Negi
-dept. name of computer science and engineering
-Prem Pur Mafi Kaulagarh, Dehradun, <Graphic Era Hill University><Clement Town Dehradun>
 negisakshi410@gmail.com
  
 
@@ -92,6 +90,8 @@ Figure 1.1 Proposed method flowchart and details of algorithm
 V.	EXPERIMENTAL RESULTS
 
 We used input dataset to evaluate the above algorithm that had multiple attributes and features, they were normalized and cleaned in order to make it available for the format in which it was expected. A view of the input data is shown as under,
+![image](https://github.com/SakshiNegi410/project_intrusion_Detection/assets/125671478/b7aaabad-7033-469e-884c-678de53709e5)
+
 
  
 		Fig.1.2 Experiment
