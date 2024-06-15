@@ -1,6 +1,8 @@
 # project_intrusion_Detection
 INTRUSION DETECTION AS A COMBINATION OF SIGNATURE, ANOMALY & BEHAVIOR BASED TECHNIQUES
 ![image](https://github.com/SakshiNegi410/project_intrusion_Detection/assets/125671478/b7aaabad-7033-469e-884c-678de53709e5)
+![image](https://github.com/SakshiNegi410/project_intrusion_Detection/assets/125671478/33875fbb-eb2e-4b0d-aa66-5d043b58b41d)
+
   
  
 In safeguarding computer networks against malicious attacks, intrusion detection systems (IDS) play a crucial role. However, achieving both high detection accuracy and a low false positive rate across all attack types remains a challenge for any single IDS technique. Consequently, there has been a proposal for hybrid IDS solutions that amalgamate multiple techniques to surmount the limitations of individual approaches and bolster overall IDS performance. We endeavor to conduct a thorough examination and assessment of existing hybrid IDS solutions while pinpointing key challenges and avenues for further research to develop effective and efficient hybrid IDS solutions. Initially, the paper delves into the fundamental principles and categorizations of IDS techniques before establishing a taxonomy of hybrid IDS solutions based on architectural framework, data source, data fusion methods, and evaluation techniques. Furthermore, it conducts a comparative analysis of the performance of diverse hybrid IDS solutions employing various metrics and datasets, elucidating the strengths and weaknesses of each approach. Ultimately, the paper synthesizes the primary findings and contributions of the survey and puts forth unresolved issues and future research trajectories for hybrid IDS.
